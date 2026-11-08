@@ -1,0 +1,6 @@
+{
+  "name": "3D 水果消消乐 - 治愈解压三消",
+  "description": "画面柔和、节奏舒缓的纯 3D 水果解压三消小游戏，包含立体卡通水果、主线关卡与独立隐藏 3D 秘境。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
